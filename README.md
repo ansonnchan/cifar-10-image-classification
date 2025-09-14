@@ -24,4 +24,4 @@ To run this project, you need the following Python libraries:
 
 You can install them using the following command on Command Prompt (or any command line interface)
 
-pip install [insert library] 
+`pip install [insert library]`
