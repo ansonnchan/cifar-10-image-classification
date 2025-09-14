@@ -22,5 +22,6 @@ To run this project, you need the following Python libraries:
 - `seaborn`  (could be installed already)
 - `sklearn' OR 'scikit-learn`  
 
-You can install them using the following command on Command Prompt (or any command line interface0
+You can install them using the following command on Command Prompt (or any command line interface)
+
 pip install [insert library] 
